@@ -28,4 +28,4 @@ yes_in_dict = translate("potato")
 print "The German word for potato is {}.".format(yes_in_dict)
 
 not_in_dict = translate("ramen")
-print "The German word for potato is [{}].".format(not_in_dict)
+print "The German word for ramen is [{}].".format(not_in_dict)
